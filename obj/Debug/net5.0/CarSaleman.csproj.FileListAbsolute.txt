@@ -1,0 +1,16 @@
+D:\Udemy\C# Programing\CarSaleman\bin\Debug\net5.0\CarSaleman.exe
+D:\Udemy\C# Programing\CarSaleman\bin\Debug\net5.0\CarSaleman.deps.json
+D:\Udemy\C# Programing\CarSaleman\bin\Debug\net5.0\CarSaleman.runtimeconfig.json
+D:\Udemy\C# Programing\CarSaleman\bin\Debug\net5.0\CarSaleman.runtimeconfig.dev.json
+D:\Udemy\C# Programing\CarSaleman\bin\Debug\net5.0\CarSaleman.dll
+D:\Udemy\C# Programing\CarSaleman\bin\Debug\net5.0\ref\CarSaleman.dll
+D:\Udemy\C# Programing\CarSaleman\bin\Debug\net5.0\CarSaleman.pdb
+D:\Udemy\C# Programing\CarSaleman\obj\Debug\net5.0\CarSaleman.csprojAssemblyReference.cache
+D:\Udemy\C# Programing\CarSaleman\obj\Debug\net5.0\CarSaleman.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\C# Programing\CarSaleman\obj\Debug\net5.0\CarSaleman.AssemblyInfoInputs.cache
+D:\Udemy\C# Programing\CarSaleman\obj\Debug\net5.0\CarSaleman.AssemblyInfo.cs
+D:\Udemy\C# Programing\CarSaleman\obj\Debug\net5.0\CarSaleman.csproj.CoreCompileInputs.cache
+D:\Udemy\C# Programing\CarSaleman\obj\Debug\net5.0\CarSaleman.dll
+D:\Udemy\C# Programing\CarSaleman\obj\Debug\net5.0\ref\CarSaleman.dll
+D:\Udemy\C# Programing\CarSaleman\obj\Debug\net5.0\CarSaleman.pdb
+D:\Udemy\C# Programing\CarSaleman\obj\Debug\net5.0\CarSaleman.genruntimeconfig.cache
